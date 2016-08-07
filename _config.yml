@@ -37,7 +37,7 @@ nav:
   - name:           "About"
     url:            "/about"
   - name:           "Tags"
-    url:            #"/tags/index.html"
+    url:            "/tags/index.html"
   - name:           "TIL"
     url:            "https://github.com/AWEEKJ/TIL"
 
