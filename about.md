@@ -3,6 +3,14 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
+Hi, I'm Jamie Jo (a.k.a Modo). I'm a student, yet.
 
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+## Contact
+* aweek.jo@gmail.com
+* [Github](https://github.com/AWEEKJ)
+* [Twitter](https://twitter.com/__modo_)
+
+
+---
+
+This blog is inspired by [Kiko](http://github.com/gfjaru/Kiko) theme, powered by [Jekyll](http://jekyllrb.com), hosted on [Github Pages](https://pages.github.com).

@@ -3,14 +3,15 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name:               "MODO"
 description:        "a clean, lightweight and minimalistic blog theme for jekyll"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
-author:             "gfjaru"
+#url:                "http://aweekj.github.io"
+
+author:             "Modo"
 twitter:
-  username:         "gfjaru"
+  username:         "__modo_"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -18,17 +19,27 @@ twitter:
 # URL
 baseurl:            ""
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title/
+
+# Image path in the posts
+image:              /static/img/posts
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Asia/Seoul
+permalink:          /:year-:month-:day/:title/
 
 # Markdown
 markdown:           kramdown
+kramdown:
+  imput:            GFM
 
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    url:            "/about"
+  - name:           "Tags"
+    url:            #"/tags/index.html"
+  - name:           "TIL"
+    url:            "https://github.com/AWEEKJ/TIL"
 
 # Sass
 sass:
@@ -51,3 +62,5 @@ defaults:
 
 gems:
   - jekyll-seo-tag
+
+exclude:            [vendor]
