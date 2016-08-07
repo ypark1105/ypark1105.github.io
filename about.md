@@ -6,7 +6,7 @@ permalink: /about/
 Hi, I'm Jamie Jo (a.k.a Modo). I'm a student, yet.
 
 ## Contact
-* aweek.jo@gmail.com
+* [Email](mailto:gkswn121@gmail.com)
 * [Github](https://github.com/AWEEKJ)
 * [Twitter](https://twitter.com/__modo_)
 
