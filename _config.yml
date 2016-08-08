@@ -41,6 +41,10 @@ nav:
   - name:           "TIL"
     url:            "https://github.com/AWEEKJ/TIL"
 
+# Google-analytics
+google-analytics:
+  id:               "UA-82148706-1"
+
 # Sass
 sass:
   style:            :compressed

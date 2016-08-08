@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Jekyll 블로그에서 포스트 URL 구성하기"
+title:    "Jekyll에서 포스트 URL 구성하기"
 date:     2016-07-20 14:42:59 +0900
 category: TIL
 tags:     [jekyll]
