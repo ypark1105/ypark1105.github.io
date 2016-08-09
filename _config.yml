@@ -16,6 +16,14 @@ twitter:
 #  app_id:           1234
 #    publisher:      1234
 
+# Google-analytics
+google-analytics:
+  id:               "UA-82148706-1"
+
+# Disqus
+disqus:
+  id:                "aweekj"
+
 # URL
 baseurl:            ""
 #baseurl:            "" #For Root Domain
@@ -41,9 +49,7 @@ nav:
   - name:           "TIL"
     url:            "https://github.com/AWEEKJ/TIL"
 
-# Google-analytics
-google-analytics:
-  id:               "UA-82148706-1"
+
 
 # Sass
 sass:
