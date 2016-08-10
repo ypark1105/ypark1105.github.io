@@ -1,6 +1,6 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
+# # # # # # # # # # # # #
+#   K i k o - p l u s   #
+# # # # # # # # # # # # #
 
 # Basic
 name:               "MODO"
@@ -35,6 +35,10 @@ image:              /static/img/posts
 timezone:           Asia/Seoul
 permalink:          /:year-:month-:day/:title/
 
+# Pagination
+paginate:           5
+paginate_path:      "/page:num/"
+
 # Markdown
 markdown:           kramdown
 kramdown:
@@ -44,6 +48,10 @@ kramdown:
 nav:
   - name:           "About"
     url:            "/about"
+  - name:           "Archive"
+    url:            "/archive/index.html"
+  - name:           "Categories"
+    url:            "/categories/index.html"
   - name:           "Tags"
     url:            "/tags/index.html"
   - name:           "TIL"
@@ -53,6 +61,7 @@ nav:
 
 # Sass
 sass:
+  sass_dir:         _sass
   style:            :compressed
 
 # Scopes
@@ -72,5 +81,6 @@ defaults:
 
 gems:
   - jekyll-seo-tag
+  - jekyll-paginate
 
 exclude:            [vendor]

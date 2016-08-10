@@ -47,7 +47,7 @@ SSH 키들은 기본적으로 사용자의 ~/.ssh 디렉토리에 저장된다. 
 [github](https://github.com) 사이트에서 두 번째 계정을 생성하고 로그인 한 다음, 오른쪽 위의 아이콘을 클릭하여 Settings ->  SSH keys -> New SSH key 를 클릭한다.
 다음과 같이 Title 입력란에는 구별할 수 있는 간단한 이름을, Key 입력란에는 복사해둔 키를 붙여 넣고, Add SSH key 버튼을 눌러 완료한다.
 
-![new SSH key](/static/img/posts/2016-07-16-1.png)
+![new SSH key](/assets/images/blog/2016-07-16-1.png)
 
 그 다음 다시 터미널로 돌아와서 생성한 키를 SSH에 추가해 주어야 한다.
 
