@@ -4,6 +4,7 @@ title:    "Jekyll에 Disqus 추가하기"
 date:     2016-08-09 19:38:00 +0900
 tags:     [jekyll, disqus]
 comments: true
+share: true
 ---
 
 Jekyll에 Disqus를 추가하는 방법을 알아본다. Disqus는 정적 웹사이트에서 동적 기능인 댓글을 사용할 수 있는 좋은 방법이다.

@@ -1,9 +1,11 @@
 ---
 layout:   post
 title:    "Jekyll에서 Pagination을 사용 할 때의 문제점"
+description: ""
 date:     2016-07-19 03:02:12 +0900
-category: TIL
 tags:     [jekyll]
+comments: true
+share: true
 ---
 
 Jekyll의 paginator 기능이 root에 있는 index.html 에서만 적용되는 문제가 있었다.

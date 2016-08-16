@@ -1,9 +1,11 @@
 ---
 layout:   post
 title:    "Jekyll에 Google Analytics 추가하기"
+description: ""
 date:     2016-08-08 12:42:08 +0900
 tags:     [jekyll, google analytics]
 comments: true
+share: true
 ---
 
 Google Analytics 는 웹페이지 방문자들의 사이트 활동, 사이트 유입경로 등 웹로그를 분석해주는 서비스이다. 블로그에 이 기능을 추가해 보자.

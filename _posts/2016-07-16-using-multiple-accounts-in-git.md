@@ -1,9 +1,11 @@
 ---
 layout:   post
 title:    "여러 개의 github 계정 사용하기"
+description: ""
 date:     2016-07-16 17:34:43 +0900
-category: TIL
 tags:     [github, ssh]
+comments: true
+share: true
 ---
 
 새 github 계정이 필요해져서 사이트에서 계정을 만든 뒤 로컬에서 작업을 하고 푸시하려는데 권한이 없다는 오류가 났다. 그래서 한 대의 컴퓨터에서 여러 개의 github 계정을 사용하는 방법을 찾아서 정리해보았다. github 사이트에서 한 계정을 사용중이다가 새로이 두 번째 계정을 만드는 것을 설명한다.

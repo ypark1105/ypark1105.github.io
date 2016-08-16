@@ -4,17 +4,22 @@
 
 # Basic
 name:               "MODO"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
 
-# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-#url:                "http://aweekj.github.io"
-
-author:             "Modo"
 twitter:
   username:         "__modo_"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
+
+author:
+  name:             AWEEKJ
+  facebook:
+  twitter:          __modo_
+  github:           AWEEKJ
+  linkedin:
+  medium:
+  tumblr:
+  email:            gkswn121@gmail.com
 
 # Google-analytics
 google-analytics:
@@ -25,11 +30,9 @@ disqus:
   id:                "aweekj"
 
 # URL
+url:                "https://AWEEKJ.github.io"
+#url:                "localhost:4000"
 baseurl:            ""
-#baseurl:            "" #For Root Domain
-
-# Image path in the posts
-image:              /static/img/posts
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:           Asia/Seoul
@@ -50,8 +53,6 @@ nav:
     url:            "/about"
   - name:           "Archive"
     url:            "/archive/index.html"
-  - name:           "Categories"
-    url:            "/categories/index.html"
   - name:           "Tags"
     url:            "/tags/index.html"
   - name:           "TIL"

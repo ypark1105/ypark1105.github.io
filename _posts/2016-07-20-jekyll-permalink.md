@@ -1,9 +1,11 @@
 ---
 layout:   post
 title:    "Jekyll에서 포스트 URL 구성하기"
+description: ""
 date:     2016-07-20 14:42:59 +0900
-category: TIL
 tags:     [jekyll]
+comments: true
+share: true
 ---
 
 Jekyll로 만들어진 블로그에서 URL을 정하는 방법은 _config.yml에서 블로그 전반적인 주소 형식을 정하는 방법과, YAML 머리말로 포스트마다 정해주는 방법 두가지가 있다.
