@@ -131,17 +131,22 @@ body {
       color: #fff;
       background-color: $base-lighten-color;
       text-decoration: none;
-			border-radius: 3px;
+      border-radius: 3px;
+    }
+    ul {
+        padding-left: 0;
     }
     li {
       font-size: .75rem;
       display: inline;
       list-style-type: none;
       text-transform: lowercase;
+
     }
     span {
-      float: left;
-			padding: .5px 5px;
+        float: left;
+        padding: .5px 5px;
+
     }
   }
   &-share {
