@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Django Form에 Bootstrap 적용하기"
-description: ""
+title: "Django Form with Bootstrap"
+description: "Django Form에 Bootstrap를 적용하는 방법을 정리했다."
 date: 2016-10-17
 tags:
   - django
@@ -9,8 +9,6 @@ tags:
 comments: true
 share: true
 ---
-
-> 라고 쓰고, Django에 Bootstrap을 적용하던 중 겪었던 **삽질기** 라고 읽는다.
 
 ### Problem
 
