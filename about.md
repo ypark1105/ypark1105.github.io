@@ -3,10 +3,29 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Hanju Jo (a.k.a Modo, AWEEKJ).
+Hello, my name is Hanju Jo (a.k.a Modo).
 
-I can use C, Java, HTML, CSS, Javascript, Python and expecially interested Python. Recently, I'm studying Swift and React, too.
+I'm junior developer who care about Diversity and LGBTQ+ Rights.
 
-I *LOVE* to use Apple's products. And I do care about Diversity and LGBTQ+ Rights.
+### Techonologies
+* Languages
+    * Python
+    * Java
+    * Javascript
+    * HTML
+    * CSS
+    * Swift
+* Framework
+    * Django
+    * Jekyll
+* Cloud Computing
+    * AWS
+    * Heroku
+* Database
+    * MySQL
+* Version Control
+    * Git
 
-This site is using [Kiko Plus](https://github.com/AWEEKJ/Kiko-plus) theme which is made by me, powered by [Jekyll](http://jekyllrb.com), hosted on [Github Pages](https://pages.github.com).
+---
+
+I made this site's theme [Kiko Plus](https://github.com/AWEEKJ/Kiko-plus) which is open sourced.
