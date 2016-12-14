@@ -35,6 +35,7 @@ $ npm install -g bower
 3. `STATIC_ROOT`를 추가한다. 이 때, 경로는 `STATICFILES_DIRS`의 경로와 다른 경로여야 한다.
 4. 패키지가 설치된 경로인 `BOWER_COMPONENTS_ROOT`를 추가한다.
 5. 설치할 패키지의 목록인 `BOWER_INSTALLED_APPS`를 추가한다.
+
 #### setting.py 예시
 
 ```python
