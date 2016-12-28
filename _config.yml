@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "AWEEKJ"
+name:               "YPARK"
 
 twitter:
   username:         "__modo_"
@@ -12,14 +12,14 @@ twitter:
 #    publisher:      1234
 
 author:
-  name:             Hanju Jo
+  name:             Youngsun Park
   facebook:
   twitter:          __modo_
-  github:           AWEEKJ
+  github:           ypark1105
   linkedin:         aweekj
   medium:
   tumblr:
-  email:            gkswn121@gmail.com
+  email:            youngsun2587@gmail.com
 
 # Google-analytics
 google-analytics:
